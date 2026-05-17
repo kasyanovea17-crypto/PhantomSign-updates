@@ -4,7 +4,7 @@ Public update channel for PhantomSign.
 
 ## Latest
 
-- Version: 0.1.1
+- Version: 0.1.2
 - File: `PhantomSign.exe`
-- SHA256: `EE3BE8C8E07E0B5FF9C6A5E80CFCF74CDC79EBE1C7B59214CE73B840AC577B9C`
-- Description: Добавлена система обновлений в настройках.
+- SHA256: `5B0AD267DEEE926CD69743E5EADF83156D322CDD139FC991C02D798DAF33920E`
+- Description: Добавлены сведения о разработчике и контакты для связи.
