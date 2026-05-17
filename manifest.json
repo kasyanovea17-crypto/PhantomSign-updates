@@ -1,9 +1,10 @@
 {
   "name": "PhantomSign",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "published_at": "2026-05-17",
   "file": "PhantomSign.exe",
-  "size": 49318078,
-  "sha256": "37F36A7BA06B0E11DA6793735850DF9EE219EB3E0B3EA6F9B50D7E3AC447C988",
+  "size": 31679634,
+  "sha256": "EE3BE8C8E07E0B5FF9C6A5E80CFCF74CDC79EBE1C7B59214CE73B840AC577B9C",
+  "description": "Добавлена система обновлений в настройках: проверка новой версии через GitHub, показ описания релиза, скачивание exe и проверка SHA256.",
   "download_url": "https://github.com/kasyanovea17-crypto/PhantomSign-updates/raw/main/PhantomSign.exe"
 }
