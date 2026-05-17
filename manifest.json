@@ -1,10 +1,10 @@
 {
   "name": "PhantomSign",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "published_at": "2026-05-17",
   "file": "PhantomSign.exe",
-  "size": 49324819,
-  "sha256": "5B0AD267DEEE926CD69743E5EADF83156D322CDD139FC991C02D798DAF33920E",
-  "description": "В разделе настроек обновлен блок о программе: добавлены сведения о разработчике Касьянове Е.А. / Pertuhabo и контактный email для связи.",
+  "size": 49327253,
+  "sha256": "CCCFB5C24BC514AD253507D715DA560EA050A073F49077454A2A85CD2783884B",
+  "description": "Исправлено шифрование документов через CryptoPro CAdES: используется корректный COM-компонент CPEnvelopedData и надежный выбор алгоритма CryptoPro по умолчанию.",
   "download_url": "https://github.com/kasyanovea17-crypto/PhantomSign-updates/raw/main/PhantomSign.exe"
 }
